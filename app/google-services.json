@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798437443409",
+    "firebase_url": "https://hate-speech-detector-forum.firebaseio.com",
+    "project_id": "hate-speech-detector-forum",
+    "storage_bucket": "hate-speech-detector-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798437443409:android:1d6dad7c62cfd25d",
+        "android_client_info": {
+          "package_name": "com.example.codingforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798437443409-34ao3bmueufd7lvobbh9cj5pl6sh955v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX0qBYz2hUl2-gs3wF-NiaV1pDKvX-JFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798437443409-34ao3bmueufd7lvobbh9cj5pl6sh955v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
